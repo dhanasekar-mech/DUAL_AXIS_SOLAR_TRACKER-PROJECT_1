@@ -49,11 +49,12 @@ Solar panels achieve maximum efficiency when they directly face the sun. Traditi
 ## Design and Material
 
 - **Design Software**: The mechanism was designed using **Solid Edge**, a powerful CAD software known for precise and efficient 3D modeling.
-- **Material Used**: Stainless Steel (SS) for durability and resistance to wear in the machine shop environment.
+- **Material Used**: Stainless Steel and lightweight materials for the frame to ensure durability and easy movement.
 - **Fixture Design**: 
-  - Compact mounting structure to accommodate both sensors.
-  - Adjustable slots for precise positioning of sensors.
-  - Ensures the lasers from both sensors intersect at a single focal point on the grinding wheel.
+  - Dual-axis design to track the sun's position with two servo motors.
+  - Compact structure to support LDRs and other components for precise adjustments.
+  - The system is designed to fit small-scale solar panels while maximizing solar energy capture.
+ 
 ---
 
 ## Working Principle
