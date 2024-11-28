@@ -11,10 +11,11 @@ This project focuses on developing a **Dual Axis Solar Tracker Mechanism** that 
 1. [Introduction](#introduction)
 2. [Key Components](#key-components)
 3. [Features](#features)
-4. [Working Principle](#working-principle)
-5. [Applications](#applications)
-6. [Future Enhancements](#future-enhancements)
-7. [Conclusion](#conclusion)
+4. [Design and Material](#design-and-material)
+5. [Working Principle](#working-principle)
+6. [Applications](#applications)
+7. [Future Enhancements](#future-enhancements)
+8. [Conclusion](#conclusion
 
 ---
 
@@ -43,6 +44,16 @@ Solar panels achieve maximum efficiency when they directly face the sun. Traditi
 - **Energy Efficient**: Maximizes solar energy collection by maintaining optimal alignment throughout the day.
 - **Compact and Scalable**: Designed for small-scale prototypes with potential scalability for larger applications.
 
+---
+
+## Design and Material
+
+- **Design Software**: The mechanism was designed using **Solid Edge**, a powerful CAD software known for precise and efficient 3D modeling.
+- **Material Used**: Stainless Steel (SS) for durability and resistance to wear in the machine shop environment.
+- **Fixture Design**: 
+  - Compact mounting structure to accommodate both sensors.
+  - Adjustable slots for precise positioning of sensors.
+  - Ensures the lasers from both sensors intersect at a single focal point on the grinding wheel.
 ---
 
 ## Working Principle
