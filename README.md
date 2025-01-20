@@ -31,7 +31,7 @@ Solar panels achieve maximum efficiency when they directly face the sun. Traditi
 - **4 LDRs**: Measure light intensity to determine the sun's direction.
 - **2 MG995 Servo Motors**: Control the solar panel's movement along the X (horizontal) and Y (vertical) axes.
 - **Rain Sensor**: Detects rain and signals the panel to return to a safe position.
-- **Solar Panel (Optional)**: Mounted on the tracker for testing and demonstration purposes.
+- **Solar Panel**: Mounted on the tracker for testing and demonstration purposes.
 - **Power Supply**: Provides energy for the Arduino and motors.
 
 ---
